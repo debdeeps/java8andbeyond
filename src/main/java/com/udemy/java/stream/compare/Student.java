@@ -1,8 +1,6 @@
 package com.udemy.java.stream.compare;
 public class Student {
     private String name;
-
-
     private int score;
     private int height;
     public Student(String name, int score, int height) {
